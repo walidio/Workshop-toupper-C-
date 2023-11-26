@@ -1,0 +1,13 @@
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.exe
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.deps.json
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.runtimeconfig.json
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.runtimeconfig.dev.json
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.dll
+D:\VS teests\wokrshop\wokrshop\bin\Debug\netcoreapp3.0\wokrshop.pdb
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.AssemblyInfoInputs.cache
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.AssemblyInfo.cs
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.csproj.CoreCompileInputs.cache
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.dll
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.pdb
+D:\VS teests\wokrshop\wokrshop\obj\Debug\netcoreapp3.0\wokrshop.genruntimeconfig.cache
